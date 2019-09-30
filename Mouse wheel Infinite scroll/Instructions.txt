@@ -12,3 +12,5 @@ press the lateral button and scroll the wheel up or down, it will turn 100 more 
 you can release the lateral button
 to stop the scrolling simply scroll up or down with the button released
 
+Ps: if you do not wish to use a mouse lateral button then any keyboard key can replace it
+
