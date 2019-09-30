@@ -1,0 +1,13 @@
+1) Install autohotkey
+2) Download the .ahk script
+3) Run the file
+4) You can put it in your windows startup folder for automatic execution
+5) Enjoy!
+
+Change mouse X1 button to X2 to switch to the other lateral button
+
+How to use:
+Set your mouse button to default if it was remapped 
+press the lateral button and scroll the wheel up or down, it will keep scrolling as long as you keep adding scrolls
+release the lateral button and scroll up or down to abort the infinite scroll
+
