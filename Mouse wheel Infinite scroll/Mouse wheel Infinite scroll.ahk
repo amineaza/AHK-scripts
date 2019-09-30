@@ -20,7 +20,7 @@ while, counter > 0
     sendinput, {WheelUp}
     sleep %sleeptime%   ; change this to your requirement
     counter--
-    tooltip, % counter   ; un-comment this line for testing
+    ; tooltip, % counter   ; un-comment this line for testing
 
 }
 
@@ -43,7 +43,7 @@ while, counter < 0
     sendinput, {WheelDown}
     sleep %sleeptime%  ; 
     counter++
-    tooltip, % counter   ; un-comment this line for testing
+    ; tooltip, % counter   ; un-comment this line for testing
 
 }
 
