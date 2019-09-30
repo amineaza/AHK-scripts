@@ -1,7 +1,7 @@
 #MaxThreadsPerHotkey 2
 
-range = 100 ; range is used in arythmetics without %
-sleeptime = 2 ; %sleeptime% 
+range = 100
+sleeptime = 2
 
 XButton1 & WheelUp::  ; ---------------------
 
