@@ -8,6 +8,7 @@ Change mouse X1 button to X2 to switch to the other lateral button
 
 How to use:
 Set your mouse lateral button to default if it was remapped to some other key
-press the lateral button and scroll the wheel up or down, it will keep scrolling as long as you keep adding scrolls
-release the lateral button and scroll up or down to abort the infinite scroll
+press the lateral button and scroll the wheel up or down, it will turn 100 more with each notch
+you can release the lateral button
+to stop the scrolling simply scroll up or down with the button released
 
