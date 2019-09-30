@@ -1,5 +1,5 @@
 1) Install autohotkey
-2) Download the .ahk script
+2) Download the .ahk file
 3) Run the file
 4) You can put it in your windows startup folder for automatic execution
 5) Enjoy!
