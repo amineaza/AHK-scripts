@@ -4,7 +4,7 @@
 4) You can put it in your windows startup folder for automatic execution
 5) Enjoy!
 
-Change mouse X1 button to X2 to switch to the other lateral button
+Change mouse X1 button to X2 in the script to switch to the other lateral button
 
 How to use:
 Set your mouse lateral button to default if it was remapped to some other key
